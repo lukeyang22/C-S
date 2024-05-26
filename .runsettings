@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="user" value="test2@admlucid.com" />
+		<Parameter name="password" value="p8FrK4pE!g.ryKs" />
+		<Parameter name="login_url" value="https://admlucid.com/Identity/Account/Login" />
+		<Parameter name="golf_url" value="https://admlucid.com/Golf" />
+		<Parameter name="home_url" value="https://admlucid.com" />
+	</TestRunParameters>
+</RunSettings>
